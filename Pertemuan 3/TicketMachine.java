@@ -21,7 +21,7 @@ public class TicketMachine {
         }
     }
 
-    public int getPrice(){
+    public int getPrice() {
         return price;
     }
 
